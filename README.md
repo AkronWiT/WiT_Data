@@ -20,7 +20,10 @@ We will be using this data for future data analysis, cleansing, and machine lear
 
 Some examples of data to collect:
 [Bureau of Labor of Statistics](https://www.bls.gov/ooh/computer-and-information-technology/home)
+
 [Dreamhost the State of Women in IT ](https://www.dreamhost.com/blog/state-of-women-in-tech/)
+
 [Salesforce Annual Equality Update](https://www.salesforce.com/blog/2018/12/salesforce-equality-annual-update.html)
+
 
 Try to google "women in tech data" or "tech industry data"

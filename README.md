@@ -1,4 +1,5 @@
-# WiT_Data
+# WiT Data Repository
+
 Repository for data on women in tech
 
 Look through reports and websites. 
